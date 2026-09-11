@@ -1,33 +1,33 @@
 # Unicorn Rainbow Race
 
-## Vad är det för spel?
+## What is the game?
 
-**Unicorn Rainbow Race** är ett färgglatt och fartfyllt racingspel där du styr en enhörning genom regnbågsbanor. Målet är att köra snabbt, ta dig runt banan och samla så många mynt och bra placeringar som möjligt.
+**Unicorn Rainbow Race** is a colorful and fast-paced racing game where you control a unicorn across rainbow tracks. The goal is to race quickly, complete the track, and collect as many coins and strong finishes as possible.
 
-Spelet innehåller tre olika spellägen:
+The game includes three different modes:
 
-- **Rainbow Derby** – tävla mot sju rivaler i ett mästerskap. Du måste placera dig bland de fyra bästa för att gå vidare.
-- **Time Trial** – kör mot klockan och försök slå dina bästa varvtider.
-- **Endless Mode** – kör så långt du kan, passera checkpoints och samla mynt.
+- **Rainbow Derby** - compete against seven rivals in a championship. You must finish among the top four to advance.
+- **Time Trial** - race against the clock and try to beat your best lap times.
+- **Endless Mode** - drive as far as you can, pass checkpoints, and collect coins.
 
-Mynt kan användas till permanenta uppgraderingar som gör enhörningen snabbare och ger nya möjligheter under loppen. Spelet har också musik, kameraalternativ och stöd för både tangentbordskontroller och flera olika spellägen.
+Coins can be spent on permanent upgrades that make the unicorn faster and unlock new possibilities during races. The game also includes music, camera options, and keyboard controls.
 
-## Varför gjorde vi spelet?
+## Why did we make the game?
 
-Vi ville skapa ett spel som känns lekfullt, enkelt att komma igång med och roligt att återvända till. Enhörningar, regnbågar och racing ger spelet en lättsam stil, samtidigt som de olika spellägena skapar variation och gör att man kan spela på olika sätt.
+We wanted to create a game that feels playful, is easy to start playing, and is fun to return to. Unicorns, rainbows, and racing give the game a lighthearted style, while the different modes add variety and let players enjoy the game in different ways.
 
-Projektet är också ett sätt att utforska hur mycket spelkänsla, variation och återspelningsvärde som går att skapa med en liten och självständig webbaserad spelupplevelse. Vi har fokuserat på tydliga mål, snabba lopp och en färgstark värld där det är lätt att förstå vad man ska göra men svårt att alltid köra perfekt.
+The project is also an opportunity to explore how much gameplay, variety, and replay value can be created in a small, self-contained web game. We focused on clear goals, fast races, and a colorful world that is easy to understand but difficult to master perfectly.
 
-## Kontroller
+## Controls
 
-- **Pil upp** – gasa
-- **Pil ner** – bromsa
-- **Vänster / höger** – styr
-- **A eller mellanslag** – hoppa när funktionen är upplåst
-- **B** – använd boost när funktionen är upplåst
-- **WASD / Q och E** – styr kameran
-- **Esc** – pausa loppet
+- **Up Arrow** - accelerate
+- **Down Arrow** - brake
+- **Left / Right Arrow** - steer
+- **A or Space** - jump when unlocked
+- **B** - use boost when unlocked
+- **WASD / Q and E** - control the camera
+- **Esc** - pause the race
 
-## Kör spelet
+## Run the game
 
-Öppna `index.html` i en modern webbläsare. Spelet kräver ingen installation.
+Open `index.html` in a modern web browser. No installation is required.
